@@ -1,3 +1,5 @@
+package SchoolAssignments;
+
 public class Vehicle {
     private int wheels;
     private String make;

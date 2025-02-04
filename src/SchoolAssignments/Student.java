@@ -1,3 +1,5 @@
+package SchoolAssignments;
+
 public class Student {
     private String name;
     private int id;
@@ -55,7 +57,7 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Student{" +
+        return "SchoolAssignments.Student{" +
                 "name='" + name + '\'' +
                 ", id=" + id +
                 ", mathScore=" + mathScore +

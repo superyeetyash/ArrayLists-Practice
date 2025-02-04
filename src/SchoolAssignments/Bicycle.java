@@ -1,3 +1,5 @@
+package SchoolAssignments;
+
 public class Bicycle extends Vehicle {
     private String chainName;
 

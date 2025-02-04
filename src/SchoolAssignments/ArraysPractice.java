@@ -1,3 +1,5 @@
+package SchoolAssignments;
+
 import java.util.Scanner;
 
 public class ArraysPractice {

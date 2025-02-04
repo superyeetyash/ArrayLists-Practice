@@ -1,3 +1,5 @@
+package SchoolAssignments;
+
 /*
  *  This class represents a line. 
  *  A line has a slope an a y-intercept.

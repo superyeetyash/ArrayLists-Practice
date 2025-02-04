@@ -1,8 +1,10 @@
+package SchoolAssignments;
+
 public class Car extends Vehicle {
     private String model;
     private String engineName;
 
-//    public Car(String m, String e)
+//    public SchoolAssignments.Car(String m, String e)
 //    {
 //        model = m;
 //        engineName = e;
